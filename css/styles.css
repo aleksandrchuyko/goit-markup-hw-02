@@ -15,6 +15,10 @@ body {
   color: var(--main-text-color);
 }
 
+address {
+  font-style: inherit;
+}
+
 .list {
   list-style: none;
 }
@@ -46,6 +50,11 @@ body {
   letter-spacing: 0.03em;
   color: #000000;
 }
+
+.footer .logo {
+  color: #ffffff;
+}
+
 .logo span {
   color: #2196f3;
 }
